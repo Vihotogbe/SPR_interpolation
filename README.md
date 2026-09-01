@@ -215,6 +215,10 @@ This work was supported by the Natural Sciences and Engineering Research Council
 
 ---
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Contact
 
 **Vihotogbé Houssou** — vihotogbe-2.houssou@polymtl.ca  
