@@ -182,6 +182,8 @@ Analysis scripts are available from the corresponding author upon reasonable req
 
 ## Citation
 
+If you use this code, please cite the associated manuscript:
+
 ```bibtex
 @article{houssou2026spr,
   title     = {Spatial pattern regression for meteorological fields interpolation},
@@ -191,6 +193,11 @@ Analysis scripts are available from the corresponding author upon reasonable req
   year      = {2026},
   doi       = {https://doi.org/10.5194/egusphere-2026-1702}
 }
+```
+And the archived code itself:
+
+```bibtex
+
 ```
 
 ---
