@@ -187,7 +187,7 @@ If you use this code, please cite the associated manuscript:
 ```bibtex
 @article{houssou2026spr,
   title     = {Spatial pattern regression for meteorological fields interpolation},
-  author    = {Houssou, Vihotogb{\'e} and Carreau, Julie},
+  author    = {Houssou, Vihotogbé and Carreau, Julie},
   journal   = {Hydrology and Earth System Sciences},
   publisher = {Copernicus Publications},
   year      = {2026},
@@ -197,7 +197,14 @@ If you use this code, please cite the associated manuscript:
 And the archived code itself:
 
 ```bibtex
-
+@misc{houssou_spr_code_2026,
+  author       = {Houssou, Vihotogbé and Carreau, Julie},
+  title        = {{SPR}: Code for Spatial pattern regression for meteorological fields interpolation},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22236745},
+  url          = {https://doi.org/10.5281/zenodo.22236745}
+}
 ```
 
 ---
